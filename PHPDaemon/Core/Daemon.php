@@ -88,7 +88,7 @@ class Daemon
      * Shared memory WSTATE segment size
      * @var integer
      */
-    const SHM_WSTATE_SIZE = 1024;
+    const SHM_WSTATE_SIZE = 4096;
 
     /**
      * PHPDaemon version
